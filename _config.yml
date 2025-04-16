@@ -22,8 +22,8 @@ title: Tom Pavlasek
 email: jbpavlasek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website about the life and career of Tom Pavlasek.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tom-pavlasek" # the subpath of your site, e.g. /blog
+url: "https://janapavlasek.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/drp-square.jpeg
 
 # Build settings
